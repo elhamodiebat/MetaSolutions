@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meta Solutions</string>
+    <string name="desc">are a professional team in the technology sector. We strive to provide the best technological services in order to gain the trust of our customers .</string>
+    <string name="phone">0796210814</string>
+    <string name="email">Elhamodiebat@outlook.com</string>
+    <string name="address">Amman - Jordan</string>
+    <string name="time">From Sunday to Thursday - 8 AM to 4 PM</string>
+    <string name="website">https://elhamodiebat.wixsite.com/elhamodiebat</string>
+</resources>
